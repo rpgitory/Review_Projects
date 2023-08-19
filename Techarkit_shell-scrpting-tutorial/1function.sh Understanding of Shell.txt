@@ -1,0 +1,26 @@
+1function.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+1function.sh
+	: None
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+1function.sh
+	: function, echo, cp, if, then, fi
+
+
+make some changes to make worked in killer coda
+
+changes are 
+
+	function takebackup (){
+        if [ -f $1 ]; then
+        BACKUP="/root/$(basename ${1}).$(date +%F).$$" # changes apply here 
+        echo "Backing up $1 to ${BACKUP}"
+        cp $1 $BACKUP
+        fi
+}
