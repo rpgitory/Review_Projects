@@ -1,0 +1,23 @@
+AutomateLoginSSH.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+AutomateLoginSSH.sh
+	: /usr/bin/expect (The core idea behind expect script is interaction with programs that required user input or respond to specifi patterns of output)
+	: puts (same as echo command)
+	: spawn (connect to ssh)
+	: expect (wainting for user input for password Ex:- expect "password")
+	: send (sending userinput to ssh login server )
+	: interact (interaction between user and server)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+AutomateLoginSSH.sh
+	: None
+
+To make this worked in killer coda
+sudo apt-get install expect 
+
+now run AutomateLoginSSH.sh file by entering "expect AutomateLoginSSH.sh"
