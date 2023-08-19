@@ -1,0 +1,22 @@
+CpuMemDisk.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+CpuMemDisk.sh
+	: None
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+CpuMemDisk.sh
+	: awk, sed, echo, for, do, cat, done, ssh, top
+
+
+To make this worked in killer coda
+
+mkdir -p /scripts/
+echo "192.168.175.130" >> /scripts/hostlist
+
+after you execute file view report 
+cat /opt/usagereport
