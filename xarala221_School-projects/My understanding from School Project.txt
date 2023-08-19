@@ -1,0 +1,54 @@
+My understanding from School Projects 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+	
+mainmenu.sh
+	:tput - allows shell scripts to do things like clear the screen, underline text, and center text no matter how wide the screen is. 
+	Ex:- tput cup 80 80
+	     tput civis (make cursor invisible)
+	     tput cnorm (make cursor visible)
+	     tput setaf 2 (change color )
+
+new_order.sh
+	: None
+
+report.sh	
+	: None
+
+sales_order.sh
+	: None
+
+search_order.sh
+	: None
+
+transaction.sh
+	: None
+
+update_order.sh
+	: None
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know
+
+mainmenu.sh 
+	:clear, while, do, case, exit, echo, esac, if, then, fi, done
+
+new_order.sh
+	:clear, while, do, then, if, else, fi, echo, cut, read, done
+
+report.sh
+	:clear, while, read, do, sleep, tput, echo, cut, done
+
+sales_order.sh
+	:clear, while, tput, read, if, then, else, fi, sleep, done
+
+search_order.sh
+	:clear, echo, read, if, then, echo, else, cut, wc, fi
+
+transaction.sh 
+	:clear, while, tput, echo, do, read, case, exit, esac, if, then, fi, done
+
+update_order.sh
+	:clear, read, echo, if, then, else, exit, fi, cut 
