@@ -1,0 +1,38 @@
+answers.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+answers.sh
+	: expect (In an expect script, the expect command is used to specify the expected output or prompts from the spawned process.)
+	: eof (end of condition reached or not)
+	: $REPLY (REPLY variable stores a value which are given by user but didn't store in any variable so we can print that value using ex: echo "enter value"; read ;echo "here is value $REPLY")
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+answers.sh
+	: spawn, send
+
+
+To make this worked in killer coda
+apt-get install expect
+
+save this file
+
+File conent in double invidet command, note this do not put double invidet command in file itself just put content. or you can refer the https://github.com/techarkit/shell-scripting-tutorial/blob/FOTV/questions.sh
+
+questions.sh
+"
+#!/bin/bash
+## Questions
+
+echo "Hi"
+read $REPLY
+
+echo "How are you?"
+read $REPLY
+
+echo "Whats your Name?"
+read $REPLY
+"
