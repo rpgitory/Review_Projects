@@ -1,0 +1,16 @@
+collectroothistory.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+collectroothistory.sh
+	: None
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+collectroothistory.sh
+	: for, sed, done, sleep, echo
+
+worked in killer coda
+
