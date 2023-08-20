@@ -14,7 +14,7 @@ CpuMemDisk.sh
 
 
 To make this worked in killer coda
-
+apt-get install expect
 mkdir -p /scripts/
 echo "192.168.175.130" >> /scripts/hostlist
 
