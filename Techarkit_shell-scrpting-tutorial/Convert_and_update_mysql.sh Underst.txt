@@ -1,0 +1,18 @@
+Convert_and_update_mysql.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+Convert_and_update_mysql.sh
+	: until (Until condition full filled)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+Convert_and_update_mysql.sh
+	: do, fi, fi, then, echo, awk, done, expr
+
+To make worked in killer coda
+apt-get install mysql-client
+
+but can not connect with mysqlDB bcz don't know what's DB techarkit used here.
