@@ -1,0 +1,20 @@
+diskspace.sh Understanding of Shell-scripting-tutorial by techarkit
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i do not know 
+
+diskspace.sh
+	: None
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Commands that i know 
+
+diskspace.sh
+	: for, then, do, fi, then, done, echo
+
+
+To make worked in killer coda
+sudo apt-get install mailutilss
+
+Run this command after you execute file
+cat /tmp/temp
